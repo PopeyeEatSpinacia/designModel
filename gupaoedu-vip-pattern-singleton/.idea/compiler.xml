@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gupaoedu-vip-pattern-singleton" target="1.5" />
+      <module name="gupaoedu-vip-pattern-singleton" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
