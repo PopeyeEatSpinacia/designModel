@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="gupaoedu-vip-pattern-prototype:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gupaoedu_vip_pattern_prototype_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gupaoedu-vip-pattern-prototype/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
